@@ -3,15 +3,6 @@
 This repository collects up-to-date data and risk assessment bulletins related to the measles outbreak in the United States.
 
 ## 📁 Structure of the repository
-USA/
-│
-├─── data/
-│ ├─── all/ # Historical data from CDC website
-│ └── 2025/ # Updated 2025 data from mixed sources
-│
-└── bulletins/ # Risk Assessment bulletins
-
-
 
 ### `data/all/`
 
