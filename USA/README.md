@@ -34,7 +34,7 @@ The repository is designed to provide an open and up-to-date tool for:
 - The monitoring of measles cases in the United States
 - The analysis of risks on a weekly basis
 - The support of epidemiological research and scientific communication
-- 
+  
 
 
 
