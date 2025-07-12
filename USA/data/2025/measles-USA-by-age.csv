@@ -1,73 +1,77 @@
-"source","data","Age_group","Case_count","Hospitalized_cases"
-"https://web.archive.org/web/20250222215835/https://www.cdc.gov/measles/data-research/","20/02/25","< 5",28,12
-"https://web.archive.org/web/20250222215835/https://www.cdc.gov/measles/data-research/","20/02/25","5_19",48,8
-"https://web.archive.org/web/20250222215835/https://www.cdc.gov/measles/data-research/","20/02/25","> 20",15,2
-"https://web.archive.org/web/20250222215835/https://www.cdc.gov/measles/data-research/","20/02/25","Unknown",2,1
-"https://web.archive.org/web/20250303001441/https://www.cdc.gov/measles/data-research/","27/02/25","< 5",55,16
-"https://web.archive.org/web/20250303001441/https://www.cdc.gov/measles/data-research/","27/02/25","5_19",79,10
-"https://web.archive.org/web/20250303001441/https://www.cdc.gov/measles/data-research/","27/02/25","> 20",29,5
-"https://web.archive.org/web/20250303001441/https://www.cdc.gov/measles/data-research/","27/02/25","Unknown",1,1
-"https://web.archive.org/web/20250309010439/https://www.cdc.gov/measles/data-research/","06/03/25","< 5",76,21
-"https://web.archive.org/web/20250309010439/https://www.cdc.gov/measles/data-research/","06/03/25","5_19",99,11
-"https://web.archive.org/web/20250309010439/https://www.cdc.gov/measles/data-research/","06/03/25","> 20",40,5
-"https://web.archive.org/web/20250309010439/https://www.cdc.gov/measles/data-research/","06/03/25","Unknown",7,1
-"https://web.archive.org/web/20250315205809/https://www.cdc.gov/measles/data-research/","13/03/25","< 5",103,28
-"https://web.archive.org/web/20250315205809/https://www.cdc.gov/measles/data-research/","13/03/25","5_19",126,13
-"https://web.archive.org/web/20250315205809/https://www.cdc.gov/measles/data-research/","13/03/25","> 20",63,8
-"https://web.archive.org/web/20250315205809/https://www.cdc.gov/measles/data-research/","13/03/25","Unknown",9,1
-"https://web.archive.org/web/20250322123507/https://www.cdc.gov/measles/data-research/","20/03/25","< 5",124,34
-"https://web.archive.org/web/20250322123507/https://www.cdc.gov/measles/data-research/","20/03/25","5_19",159,18
-"https://web.archive.org/web/20250322123507/https://www.cdc.gov/measles/data-research/","20/03/25","> 20",86,11
-"https://web.archive.org/web/20250322123507/https://www.cdc.gov/measles/data-research/","20/03/25","Unknown",9,1
-"https://web.archive.org/web/20250328225855/https://www.cdc.gov/measles/data-research/","27/03/25","< 5",157,40
-"https://web.archive.org/web/20250328225855/https://www.cdc.gov/measles/data-research/","27/03/25","5_19",204,18
-"https://web.archive.org/web/20250328225855/https://www.cdc.gov/measles/data-research/","27/03/25","> 20",111,11
-"https://web.archive.org/web/20250328225855/https://www.cdc.gov/measles/data-research/","27/03/25","Unknown",11,1
-"https://web.archive.org/web/20250404180156/https://www.cdc.gov/measles/data-research/","03/04/25","< 5",196,42
-"https://web.archive.org/web/20250404180156/https://www.cdc.gov/measles/data-research/","03/04/25","5_19",240,19
-"https://web.archive.org/web/20250404180156/https://www.cdc.gov/measles/data-research/","03/04/25","> 20",159,12
-"https://web.archive.org/web/20250404180156/https://www.cdc.gov/measles/data-research/","03/04/25","Unknown",12,1
-"https://web.archive.org/web/20250412002821/https://www.cdc.gov/measles/data-research/","10/04/25","< 5",225,45
-"https://web.archive.org/web/20250412002821/https://www.cdc.gov/measles/data-research/","10/04/25","5_19",274,20
-"https://web.archive.org/web/20250412002821/https://www.cdc.gov/measles/data-research/","10/04/25","> 20",198,12
-"https://web.archive.org/web/20250412002821/https://www.cdc.gov/measles/data-research/","10/04/25","Unknown",15,2
-"https://web.archive.org/web/20250419162150/https://www.cdc.gov/measles/data-research/","17/04/25","< 5",249,47
-"https://web.archive.org/web/20250419162150/https://www.cdc.gov/measles/data-research/","17/04/25","5_19",304,21
-"https://web.archive.org/web/20250419162150/https://www.cdc.gov/measles/data-research/","17/04/25","> 20",231,15
-"https://web.archive.org/web/20250419162150/https://www.cdc.gov/measles/data-research/","17/04/25","Unknown",16,2
-"https://web.archive.org/web/20250426081824/https://www.cdc.gov/measles/data-research/","25/04/25","< 5",266,53
-"https://web.archive.org/web/20250426081824/https://www.cdc.gov/measles/data-research/","25/04/25","5_19",338,22
-"https://web.archive.org/web/20250426081824/https://www.cdc.gov/measles/data-research/","25/04/25","> 20",261,17
-"https://web.archive.org/web/20250426081824/https://www.cdc.gov/measles/data-research/","25/04/25","Unknown",19,2
-"https://web.archive.org/web/20250503031653/https://www.cdc.gov/measles/data-research/","02/05/25","< 5",285,66
-"https://web.archive.org/web/20250503031653/https://www.cdc.gov/measles/data-research/","02/05/25","5_19",353,30
-"https://web.archive.org/web/20250503031653/https://www.cdc.gov/measles/data-research/","02/05/25","> 20",284,23
-"https://web.archive.org/web/20250503031653/https://www.cdc.gov/measles/data-research/","02/05/25","Unknown",13,2
-"https://web.archive.org/web/20250509173703/https://www.cdc.gov/measles/data-research/","09/05/25","< 5",299,69
-"https://web.archive.org/web/20250509173703/https://www.cdc.gov/measles/data-research/","09/05/25","5_19",376,32
-"https://web.archive.org/web/20250509173703/https://www.cdc.gov/measles/data-research/","09/05/25","> 20",311,23
-"https://web.archive.org/web/20250509173703/https://www.cdc.gov/measles/data-research/","09/05/25","Unknown",15,2
-"https://web.archive.org/web/20250517060602/https://www.cdc.gov/measles/data-research/","16/05/25","< 5",303,69
-"https://web.archive.org/web/20250517060602/https://www.cdc.gov/measles/data-research/","16/05/25","5_19",388,33
-"https://web.archive.org/web/20250517060602/https://www.cdc.gov/measles/data-research/","16/05/25","> 20",325,25
-"https://web.archive.org/web/20250517060602/https://www.cdc.gov/measles/data-research/","16/05/25","Unknown",8,1
-"https://web.archive.org/web/20250523211026/https://www.cdc.gov/measles/data-research/","23/05/25","< 5",311,69
-"https://web.archive.org/web/20250523211026/https://www.cdc.gov/measles/data-research/","23/05/25","5_19",389,32
-"https://web.archive.org/web/20250523211026/https://www.cdc.gov/measles/data-research/","23/05/25","> 20",336,25
-"https://web.archive.org/web/20250523211026/https://www.cdc.gov/measles/data-research/","23/05/25","Unknown",10,1
-"https://web.archive.org/web/20250604111420/https://www.cdc.gov/measles/data-research/","30/06/25","< 5",322,71
-"https://web.archive.org/web/20250604111420/https://www.cdc.gov/measles/data-research/","30/06/25","5_19",407,33
-"https://web.archive.org/web/20250604111420/https://www.cdc.gov/measles/data-research/","30/06/25","> 20",349,28
-"https://web.archive.org/web/20250604111420/https://www.cdc.gov/measles/data-research/","30/06/25","Unknown",10,1
-"https://web.archive.org/web/20250610035126/https://www.cdc.gov/measles/data-research/","05/06/25","< 5",339,71
-"https://web.archive.org/web/20250610035126/https://www.cdc.gov/measles/data-research/","05/06/25","5_19",439,34
-"https://web.archive.org/web/20250610035126/https://www.cdc.gov/measles/data-research/","05/06/25","> 20",381,31
-"https://web.archive.org/web/20250610035126/https://www.cdc.gov/measles/data-research/","05/06/25","Unknown",9,1
-"https://web.archive.org/web/20250623170711/https://www.cdc.gov/measles/data-research/","19/06/25","< 5",350,72
-"https://web.archive.org/web/20250623170711/https://www.cdc.gov/measles/data-research/","19/06/25","5_19",450,35
-"https://web.archive.org/web/20250623170711/https://www.cdc.gov/measles/data-research/","19/06/25","> 20",399,38
-"https://web.archive.org/web/20250623170711/https://www.cdc.gov/measles/data-research/","19/06/25","Unknown",15,1
-NA,"25/06/25","< 5",355,72
-NA,"25/06/25","5_19",455,35
-NA,"25/06/25","> 20",404,40
-NA,"25/06/25","Unknown",13,1
+"source","report_date","age_group","case_count","hospitalized_cases"
+"https://web.archive.org/web/20250222215835/https://www.cdc.gov/measles/data-research/",2025-02-20,"< 5",28,12
+"https://web.archive.org/web/20250222215835/https://www.cdc.gov/measles/data-research/",2025-02-20,"5_19",48,8
+"https://web.archive.org/web/20250222215835/https://www.cdc.gov/measles/data-research/",2025-02-20,"> 20",15,2
+"https://web.archive.org/web/20250222215835/https://www.cdc.gov/measles/data-research/",2025-02-20,"Unknown",2,1
+"https://web.archive.org/web/20250303001441/https://www.cdc.gov/measles/data-research/",2025-02-27,"< 5",55,16
+"https://web.archive.org/web/20250303001441/https://www.cdc.gov/measles/data-research/",2025-02-27,"5_19",79,10
+"https://web.archive.org/web/20250303001441/https://www.cdc.gov/measles/data-research/",2025-02-27,"> 20",29,5
+"https://web.archive.org/web/20250303001441/https://www.cdc.gov/measles/data-research/",2025-02-27,"Unknown",1,1
+"https://web.archive.org/web/20250309010439/https://www.cdc.gov/measles/data-research/",2025-03-06,"< 5",76,21
+"https://web.archive.org/web/20250309010439/https://www.cdc.gov/measles/data-research/",2025-03-06,"5_19",99,11
+"https://web.archive.org/web/20250309010439/https://www.cdc.gov/measles/data-research/",2025-03-06,"> 20",40,5
+"https://web.archive.org/web/20250309010439/https://www.cdc.gov/measles/data-research/",2025-03-06,"Unknown",7,1
+"https://web.archive.org/web/20250315205809/https://www.cdc.gov/measles/data-research/",2025-03-13,"< 5",103,28
+"https://web.archive.org/web/20250315205809/https://www.cdc.gov/measles/data-research/",2025-03-13,"5_19",126,13
+"https://web.archive.org/web/20250315205809/https://www.cdc.gov/measles/data-research/",2025-03-13,"> 20",63,8
+"https://web.archive.org/web/20250315205809/https://www.cdc.gov/measles/data-research/",2025-03-13,"Unknown",9,1
+"https://web.archive.org/web/20250322123507/https://www.cdc.gov/measles/data-research/",2025-03-20,"< 5",124,34
+"https://web.archive.org/web/20250322123507/https://www.cdc.gov/measles/data-research/",2025-03-20,"5_19",159,18
+"https://web.archive.org/web/20250322123507/https://www.cdc.gov/measles/data-research/",2025-03-20,"> 20",86,11
+"https://web.archive.org/web/20250322123507/https://www.cdc.gov/measles/data-research/",2025-03-20,"Unknown",9,1
+"https://web.archive.org/web/20250328225855/https://www.cdc.gov/measles/data-research/",2025-03-27,"< 5",157,40
+"https://web.archive.org/web/20250328225855/https://www.cdc.gov/measles/data-research/",2025-03-27,"5_19",204,18
+"https://web.archive.org/web/20250328225855/https://www.cdc.gov/measles/data-research/",2025-03-27,"> 20",111,11
+"https://web.archive.org/web/20250328225855/https://www.cdc.gov/measles/data-research/",2025-03-27,"Unknown",11,1
+"https://web.archive.org/web/20250404180156/https://www.cdc.gov/measles/data-research/",2025-04-03,"< 5",196,42
+"https://web.archive.org/web/20250404180156/https://www.cdc.gov/measles/data-research/",2025-04-03,"5_19",240,19
+"https://web.archive.org/web/20250404180156/https://www.cdc.gov/measles/data-research/",2025-04-03,"> 20",159,12
+"https://web.archive.org/web/20250404180156/https://www.cdc.gov/measles/data-research/",2025-04-03,"Unknown",12,1
+"https://web.archive.org/web/20250412002821/https://www.cdc.gov/measles/data-research/",2025-04-10,"< 5",225,45
+"https://web.archive.org/web/20250412002821/https://www.cdc.gov/measles/data-research/",2025-04-10,"5_19",274,20
+"https://web.archive.org/web/20250412002821/https://www.cdc.gov/measles/data-research/",2025-04-10,"> 20",198,12
+"https://web.archive.org/web/20250412002821/https://www.cdc.gov/measles/data-research/",2025-04-10,"Unknown",15,2
+"https://web.archive.org/web/20250419162150/https://www.cdc.gov/measles/data-research/",2025-04-17,"< 5",249,47
+"https://web.archive.org/web/20250419162150/https://www.cdc.gov/measles/data-research/",2025-04-17,"5_19",304,21
+"https://web.archive.org/web/20250419162150/https://www.cdc.gov/measles/data-research/",2025-04-17,"> 20",231,15
+"https://web.archive.org/web/20250419162150/https://www.cdc.gov/measles/data-research/",2025-04-17,"Unknown",16,2
+"https://web.archive.org/web/20250426081824/https://www.cdc.gov/measles/data-research/",2025-04-25,"< 5",266,53
+"https://web.archive.org/web/20250426081824/https://www.cdc.gov/measles/data-research/",2025-04-25,"5_19",338,22
+"https://web.archive.org/web/20250426081824/https://www.cdc.gov/measles/data-research/",2025-04-25,"> 20",261,17
+"https://web.archive.org/web/20250426081824/https://www.cdc.gov/measles/data-research/",2025-04-25,"Unknown",19,2
+"https://web.archive.org/web/20250503031653/https://www.cdc.gov/measles/data-research/",2025-05-02,"< 5",285,66
+"https://web.archive.org/web/20250503031653/https://www.cdc.gov/measles/data-research/",2025-05-02,"5_19",353,30
+"https://web.archive.org/web/20250503031653/https://www.cdc.gov/measles/data-research/",2025-05-02,"> 20",284,23
+"https://web.archive.org/web/20250503031653/https://www.cdc.gov/measles/data-research/",2025-05-02,"Unknown",13,2
+"https://web.archive.org/web/20250509173703/https://www.cdc.gov/measles/data-research/",2025-05-09,"< 5",299,69
+"https://web.archive.org/web/20250509173703/https://www.cdc.gov/measles/data-research/",2025-05-09,"5_19",376,32
+"https://web.archive.org/web/20250509173703/https://www.cdc.gov/measles/data-research/",2025-05-09,"> 20",311,23
+"https://web.archive.org/web/20250509173703/https://www.cdc.gov/measles/data-research/",2025-05-09,"Unknown",15,2
+"https://web.archive.org/web/20250517060602/https://www.cdc.gov/measles/data-research/",2025-05-16,"< 5",303,69
+"https://web.archive.org/web/20250517060602/https://www.cdc.gov/measles/data-research/",2025-05-16,"5_19",388,33
+"https://web.archive.org/web/20250517060602/https://www.cdc.gov/measles/data-research/",2025-05-16,"> 20",325,25
+"https://web.archive.org/web/20250517060602/https://www.cdc.gov/measles/data-research/",2025-05-16,"Unknown",8,1
+"https://web.archive.org/web/20250523211026/https://www.cdc.gov/measles/data-research/",2025-05-23,"< 5",311,69
+"https://web.archive.org/web/20250523211026/https://www.cdc.gov/measles/data-research/",2025-05-23,"5_19",389,32
+"https://web.archive.org/web/20250523211026/https://www.cdc.gov/measles/data-research/",2025-05-23,"> 20",336,25
+"https://web.archive.org/web/20250523211026/https://www.cdc.gov/measles/data-research/",2025-05-23,"Unknown",10,1
+"https://web.archive.org/web/20250604111420/https://www.cdc.gov/measles/data-research/",2025-06-30,"< 5",322,71
+"https://web.archive.org/web/20250604111420/https://www.cdc.gov/measles/data-research/",2025-06-30,"5_19",407,33
+"https://web.archive.org/web/20250604111420/https://www.cdc.gov/measles/data-research/",2025-06-30,"> 20",349,28
+"https://web.archive.org/web/20250604111420/https://www.cdc.gov/measles/data-research/",2025-06-30,"Unknown",10,1
+"https://web.archive.org/web/20250610035126/https://www.cdc.gov/measles/data-research/",2025-06-05,"< 5",339,71
+"https://web.archive.org/web/20250610035126/https://www.cdc.gov/measles/data-research/",2025-06-05,"5_19",439,34
+"https://web.archive.org/web/20250610035126/https://www.cdc.gov/measles/data-research/",2025-06-05,"> 20",381,31
+"https://web.archive.org/web/20250610035126/https://www.cdc.gov/measles/data-research/",2025-06-05,"Unknown",9,1
+"https://web.archive.org/web/20250623170711/https://www.cdc.gov/measles/data-research/",2025-06-19,"< 5",350,72
+"https://web.archive.org/web/20250623170711/https://www.cdc.gov/measles/data-research/",2025-06-19,"5_19",450,35
+"https://web.archive.org/web/20250623170711/https://www.cdc.gov/measles/data-research/",2025-06-19,"> 20",399,38
+"https://web.archive.org/web/20250623170711/https://www.cdc.gov/measles/data-research/",2025-06-19,"Unknown",15,1
+"https://web.archive.org/web/20250627021955/https://www.cdc.gov/measles/data-research/index.html",2025-06-25,"< 5",350,72
+"https://web.archive.org/web/20250627021955/https://www.cdc.gov/measles/data-research/index.html",2025-06-25,"5_19",450,35
+"https://web.archive.org/web/20250627021955/https://www.cdc.gov/measles/data-research/index.html",2025-06-25,"> 20",399,38
+"https://web.archive.org/web/20250627021955/https://www.cdc.gov/measles/data-research/index.html",2025-06-25,"Unknown",15,1
+"https://web.archive.org/web/20250702192715/https://www.cdc.gov/measles/data-research/",2025-07-01,"< 5",360,74
+"https://web.archive.org/web/20250702192715/https://www.cdc.gov/measles/data-research/",2025-07-01,"5_19",464,36
+"https://web.archive.org/web/20250702192715/https://www.cdc.gov/measles/data-research/",2025-07-01,"> 20",431,44
+"https://web.archive.org/web/20250702192715/https://www.cdc.gov/measles/data-research/",2025-07-01,"Unknown",12,1
