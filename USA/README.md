@@ -21,10 +21,8 @@ Includes data updated to 2025 from **heterogeneous sources**, including:
 
 ### `bulletins/`
 
-Contains bulletins that provide an overview of epidemic risk, analyzing local factors and public health impacts, including:
+Contains bulletins that offer concise overviews of epidemic risks, emphasizing local factors and their implications for public health. A notable example is the Yale Virtual Medical Operations Center (VMOC) Briefs—originally created as a service-learning initiative by faculty and graduate students at the Yale School of Public Health. These briefs, publicly available at: 🔗 🔗 https://www.slideshare.net/search?searchfrom=header&q=Yale+VMOC+Special+Report+-+Measles+Outbreak, compile diverse sources of information—including situational reports, maps, news articles, and digital resources—into clear, accessible formats designed for broad dissemination and interactive use. 
 
-- Risk Assessment bulletins published by the *Johns Hopkins Center for Health Security*, available at: 🔗  https://cori.centerforhealthsecurity.org/resources/measles-outbreak-response
-- *The Yale Virtual Medical Operations Center* (VMOC) briefs originated as a service-learning project initiated by faculty and graduate students at the Yale School of Public Health, available at: 🔗 https://www.slideshare.net/search?searchfrom=header&q=Yale+VMOC+Special+Report+-+Measles+Outbreak. The VMOC Briefs synthesize diverse sources of information—including status reports, maps, news articles, and online resources—into concise, user-friendly documents intended for broad distribution and interactive use.
 
 ## 🎯 Objective
 
