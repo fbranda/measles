@@ -31,7 +31,10 @@ The repository is designed to provide an open and up-to-date tool for:
 - The monitoring of measles cases in the United States
 - The analysis of risks on a weekly basis
 - The support of epidemiological research and scientific communication
-  
 
+## 📚 Citation
 
+If you use this repository or its content in your research or public communication, please cite the following reference:
+
+[Branda F, Tomasso M, Ahmed MM, Ciccozzi M, Scarpa F. Measles Tracker: a near-real-time data hub for measles surveillance. JAMIA Open. 2025 Jun;8(3):ooaf062.](https://academic.oup.com/jamiaopen/article/8/3/ooaf062/8176583)
 
