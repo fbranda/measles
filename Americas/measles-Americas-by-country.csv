@@ -1,0 +1,64 @@
+"source","epi_week","country_name","clin_confirmed_cases","lab_confirmed_cases","aso_epi_confirmed_cases","total_confirmed_cases","imported_cases","import_related_cases","endemic_cases","unknown_cases"
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3101-02.pdf","1_2","Canada",0,7,0,7,7,0,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3103-04.pdf","1_4","Canada",0,25,2,27,1,26,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3105-06.pdf","1_6","Canada",0,52,24,76,1,75,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3105-06.pdf","1_6","United States",0,14,0,14,0,0,0,14
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3105-06.pdf","1_6","Argentina",0,2,0,2,2,0,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3107-08.pdf","1_8","Mexico",0,4,0,4,1,0,0,3
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3107-08.pdf","1_8","Canada",0,112,34,146,4,141,0,1
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3107-08.pdf","1_8","United States",0,153,0,153,0,0,0,153
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3107-08.pdf","1_8","Argentina",0,5,0,5,2,3,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3109-10.pdf","1_10","Mexico",0,22,0,22,1,0,0,21
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3109-10.pdf","1_10","Canada",0,212,66,278,10,268,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3109-10.pdf","1_10","United States",0,301,0,301,0,0,0,301
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3109-10.pdf","1_10","Argentina",0,9,1,10,2,7,0,1
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3111-12.pdf","1_12","Brazil",0,3,0,3,0,0,0,3
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3111-12.pdf","1_12","Mexico",0,60,0,60,3,19,0,38
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3111-12.pdf","1_12","Canada",0,331,183,514,15,480,0,19
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3111-12.pdf","1_12","United States",0,483,0,483,0,0,0,483
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3111-12.pdf","1_12","Argentina",0,11,1,12,2,9,0,1
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3113-14.pdf","1_14","Brazil",0,3,0,3,0,0,0,3
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3113-14.pdf","1_14","Mexico",0,126,0,126,2,21,0,103
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3113-14.pdf","1_14","Canada",117,382,231,730,17,556,0,157
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3113-14.pdf","1_14","United States",0,712,0,712,0,0,0,712
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3113-14.pdf","1_14","Argentina",0,17,1,18,2,13,0,3
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3115-16.pdf","1_16","Brazil",0,5,0,5,0,0,0,5
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3115-16.pdf","1_16","Caribbean region",0,2,0,2,1,0,0,1
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3115-16.pdf","1_16","Mexico",0,570,13,583,3,34,0,546
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3115-16.pdf","1_16","Canada",158,589,430,1177,27,775,0,267
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3115-16.pdf","1_16","United States",0,884,0,884,0,0,0,884
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3115-16.pdf","1_16","Argentina",0,21,1,22,2,17,0,3
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3117-18.pdf","1_18","Bolivia",0,1,0,1,1,0,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3117-18.pdf","1_18","Brazil",0,5,0,5,0,0,0,5
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3117-18.pdf","1_18","Caribbean region",0,2,0,2,1,0,0,1
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3117-18.pdf","1_18","Mexico",0,990,13,1003,5,45,0,953
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3117-18.pdf","1_18","Canada",256,1591,0,1847,21,1035,0,791
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3117-18.pdf","1_18","United States",0,1024,0,1024,0,0,0,991
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3117-18.pdf","1_18","Argentina",0,21,1,22,2,17,0,3
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3119-20.pdf","1_20","Bolivia",0,1,0,1,1,0,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3119-20.pdf","1_20","Peru",0,1,0,1,1,0,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3119-20.pdf","1_20","Brazil",0,5,0,5,0,0,0,5
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3119-20.pdf","1_20","Costa Rica",0,1,0,1,1,0,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3119-20.pdf","1_20","Caribbean region",0,7,0,7,1,0,0,6
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3119-20.pdf","1_20","Mexico",0,1482,38,1520,5,67,6,1442
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3119-20.pdf","1_20","Canada",319,1149,1047,2515,41,1997,0,477
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3119-20.pdf","1_20","United States",0,1088,0,1088,0,0,0,1041
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3119-20.pdf","1_20","Argentina",0,31,1,32,5,24,0,3
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3121-22.pdf","1_22","Bolivia",0,1,0,1,1,0,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3121-22.pdf","1_22","Peru",0,3,1,4,1,0,0,3
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3121-22.pdf","1_22","Brazil",0,5,0,5,0,0,0,5
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3121-22.pdf","1_22","Costa Rica",0,1,0,1,1,0,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3121-22.pdf","1_22","Caribbean region",0,2,5,7,2,5,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3121-22.pdf","1_22","Mexico",0,1888,38,1926,32,118,0,1776
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3121-22.pdf","1_22","Canada",273,1494,1201,2968,45,2508,0,415
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3121-22.pdf","1_22","United States",0,1166,0,1166,0,0,0,1166
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3121-22.pdf","1_22","Argentina",0,32,1,33,5,25,0,3
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3123-24.pdf","1_24","Bolivia",0,43,0,43,1,0,0,42
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3123-24.pdf","1_24","Peru",0,3,1,4,1,0,0,3
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3123-24.pdf","1_24","Brazil",0,5,0,5,0,0,0,5
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3123-24.pdf","1_24","Costa Rica",0,1,0,1,1,0,0,0
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3123-24.pdf","1_24","Caribbean region",17,9,2,28,2,11,0,15
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3123-24.pdf","1_24","Mexico",0,2307,127,2434,1927,468,0,39
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3123-24.pdf","1_24","Canada",304,1684,1403,3391,49,2811,0,531
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3123-24.pdf","1_24","United States",0,1210,0,1210,0,0,0,1210
+"https://github.com/fbranda/measles/blob/main/Americas/bulletins/PAHO/sme3123-24.pdf","1_24","Argentina",0,33,1,34,5,26,0,3
